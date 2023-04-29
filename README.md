@@ -19,7 +19,7 @@ jonaxMed é uma clínica médica fictícia que precisa de um aplicativo para ges
 
 
 <h2>Documentação</h2>
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/Qtn3rMWy/api-voll-med">Trello</a>
+A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/Qtn3rMWy/api-voll-med" target="_blank">Trello</a>
 
 <h2>Tecnologias</h2>
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
