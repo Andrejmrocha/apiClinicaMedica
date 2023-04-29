@@ -7,11 +7,12 @@ jonaxMed é uma clínica médica fictícia que precisa de um aplicativo para ges
 <h4>  🚧  Em desenvolvimento  🚧 </h4>
 
 <h2>Funcionalidades</h2>
+
 ### Features
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
+- [x] CRUD de médicos
+- [x] CRUD de pacientes
+- [ ] Agendamento de consultas(em breve)
+- [ ] Cancelamento de consultas(em breve)
 
 
 <h2>Layout</h2>
