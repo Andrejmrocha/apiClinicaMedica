@@ -1,20 +1,20 @@
 # apiClinicaMedica
-💻 Sobre o projeto
+Sobre o projeto
 jonaxMed é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
 
-⚙️ Funcionalidades
+Funcionalidades
  CRUD de médicos;
  CRUD de pacientes;
  Agendamento de consultas(em breve);
  Cancelamento de consultas(em breve);
  
- 🎨 Layout
+ Layout
 
 
-📄 Documentação
+Documentação
 A documentação das funcionalidades da aplicação pode ser acessada neste link: Trello
 
-🛠 Tecnologias
+Tecnologias
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
 Java 17
@@ -25,6 +25,6 @@ Hibernate
 Flyway
 Lombok
 
-📝 Licença
+Licença
 Projeto desenvolvido por Alura, Instrutor: Rodrigo Ferreira, Aluno:André Jonas.
 
