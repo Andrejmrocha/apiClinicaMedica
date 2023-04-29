@@ -43,5 +43,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 </ul>
 
 <h2>Licença</h2>
-Projeto desenvolvido por Alura, Instrutor: Rodrigo Ferreira, Aluno:André Jonas.
+CRUD Médico desenvolvido por Alura, Instrutor: Rodrigo Ferreira
+Projeto front-end: André Jonas.
 
