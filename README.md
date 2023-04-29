@@ -17,16 +17,18 @@ jonaxMed é uma clínica médica fictícia que precisa de um aplicativo para ges
 <h2>Documentação</h2>
 A documentação das funcionalidades da aplicação pode ser acessada neste link: Trello
 
-<h2Tecnologias</h2>
+<h2>Tecnologias</h2>
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
-Java 17
-Spring Boot 3
-Maven
-MySQL
-Hibernate
-Flyway
-Lombok
+<ul>
+ <li>Java 17</li>
+ <li>Spring Boot 3</li>
+ <li>Maven</li>
+ <li>MySQL</li>
+ <li>Hibernate</li>
+ <li>Flyway</li>
+ <li>Lombok</li>
+</ul>
 
 <h2>Licença</h2>
 Projeto desenvolvido por Alura, Instrutor: Rodrigo Ferreira, Aluno:André Jonas.
